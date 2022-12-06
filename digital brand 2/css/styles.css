@@ -1,0 +1,307 @@
+
+
+.nav-link{
+    color:white;
+    font-size: 1rem;
+    
+ 
+}
+
+.navbar-toggler ,navbar-toggler-icon {
+    border:1px solid #292b2c;
+    background-color:white;   
+}
+
+.nav-link:hover{
+    
+    color: white;
+    
+
+    background-color: green;
+}
+.active1{
+    background-color: green;
+    
+}
+
+    
+
+#home{
+background-image: url(/images/second\ bk.png);
+background-size: cover;
+    width: 100%;
+    height: 50%;
+    margin-top: 0;
+   padding: 20% 5% 5% 5% ;
+   
+   
+color: white;
+font-weight: bold;
+}
+.ff{
+    font-size: 15px;
+    font-family:serif;
+    color: blue;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+#course{
+    text-align: center;
+    padding-top: 5%;  
+}
+
+h2{  
+    color: blue;
+}
+
+.img2{
+    width: 100%;
+    height: 20%;
+}
+.col:hover{
+    font-size: 1.2rem;
+}
+#ho{
+   
+background-color:rgb(32, 32, 47);
+    width: 100%;
+    height: 30em;
+    margin-top: 0;
+   padding: 5% 0% 5% 5% ;
+   
+color: white;
+font-weight: bold; 
+padding-top: 6%;
+margin-bottom: 5%;
+}
+.col-4, .col-6{
+    font-family: sans-serif;
+}
+.container-col{
+    
+    border: 1px solid rgb(179, 178, 178);
+    width: 70%;
+    
+    padding: 2% 2% 2% 5%;
+    margin-top: 2%;
+}
+div.vid{
+
+    float: right;
+    
+    
+}
+
+div.cc{
+    
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.plan{
+    background-color: blue;
+}
+.get{
+    color: white;
+    text-decoration: none;
+}
+.get:hover{
+    color: white;
+}
+#get{
+    margin-top: 5%;
+    text-align: center;
+}
+.check{
+    font-family: sans-serif;
+}
+
+input[type=text],input[type=email],select{
+    border-radius: 10px;
+    padding: 0.3rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 50%;
+    height: 3rem;
+
+}
+textarea {
+    width: 25%;
+    height: 8rem;
+     width: 50%;
+     padding: 0.3rem;
+     margin-top: 1rem;
+     margin-left: 2rem;
+}
+.con{
+    
+    width: 70%;
+}
+.cont{
+    text-align: center;
+}
+.img4{
+    border-radius: 100%;
+    width:12rem;
+    height: 12rem;
+    padding: 2%;
+
+    
+}
+
+.tester{
+    text-align: center;
+   color: white;
+    
+    background-color:#292b2c;
+    height: 28rem;
+    padding: 2% 2% 0 2%;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-top: 5%;
+
+
+}
+.fa-solid{
+    font-size:2rem;
+}
+.about{
+    text-align: center;
+    background-image: url(/images/third.png);
+    background-size: cover;
+    width: 100%;
+    height: 30rem;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 4%;
+    
+
+}
+.about-sub{
+    background-color: white;
+    
+    width: 100%;
+    height: 25rem;
+    
+    
+}
+.sub-about{
+    width: 100%;
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.btn1{
+    margin-top: 4%;
+}
+.card-text ,.card-title{
+    color:rgb(57, 53, 53);
+}
+.about-sub{
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: #111;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.back{
+    background-color: black;
+}
+
+
+.foot{
+    background-color: rgb(232, 227, 227);
+text-align: left;
+
+padding: 2%;
+margin-top: 5%;
+}
+.foot-sub{
+    text-align: right;
+    margin-right: 0;
+    word-spacing: 2rem;
+    color: blue;
+    font-size: 1.5rem;
+}
+.fa-square-whatsapp{
+    color:green;
+    font-size: 2rem;
+}
+.sv{
+    text-align: left;
+
+    color: #111;
+    font-size: 1rem;
+    word-spacing: 2px;
+    font-family: sans-serif;
+}
+.notify{
+    text-align: left;
+    
+}
+
+
+/*
+.img3{
+    padding-top:16%;
+    border-radius: 100%;
+    width: 10%;
+    
+}
+
+.carousel-caption {
+    text-align:center;
+    
+    
+}
+.text{
+    margin-top: 5%;
+    margin-bottom: 10%;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+/*
+div.cn{
+    width: 80%;
+    height: 20%;
+    background-image: url(/images/university\ visible.png);
+    background-size: cover;
+    margin: 0 2% 0 10%;
+    
+}*/
+
+/*
+#About{ 
+    text-align: center;
+    margin-top: 2%;
+    background-color: rgb(82, 143, 208);
+    width: 100%;
+    height: 50%;
+}
+/*
+div.About{
+    font-size: 2rem;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* background-color: rgb(134, 158, 236);*/
+   /* margin-left: 25%;*/
+ 
